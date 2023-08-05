@@ -37,7 +37,7 @@ const Projects = () => {
     <div className=' w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end  xl:-ml-16 z-10'>
     <p className=' text-sm tracking-wide text-blue-600'>Featured Project</p>
     <h3 className=' text-2xl font-bold text-gray-800 hover:text-green-600'>Movix</h3>
-    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white'>Movix is a online IMDB website that show the information related to movies, television series, cast. you can see the Rating of movies and series also trailer of movie. we are using Redux for state management & Rapid Api. Its fully Responsive website.</p>
+    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white'>I made a Movix With Rapid Api that show the information related to movies, television series, cast. you can see the Rating of movies and series also trailer of the movie. we are using Redux Toolkit for state management & Its fully Responsive website.</p>
     <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5 lgl:-mr-10  text-black'>
       <li>HTML</li>
       <li>Tailwind CSS</li>
@@ -70,8 +70,8 @@ const Projects = () => {
      <div className=' w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end text-right  z-10'>
      <p className=' text-sm tracking-wide text-blue-600 left-0'>Featured Project</p>
      <h3 className=' text-2xl font-bold text-gray-800 hover:text-green-600'>Youtube Clone</h3>
-     <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white xl:-mr-16'>An clone a k safsdhnufsdhsdfsdfhusd jfsusfu sfuisfahsaf cfsauihscfaiusac csiuhscasaiu gyg hi gg g i guyguygiooi guyfg g hiuyutguy yiyiu yhitiyh iuiuh iutgtgug iuyiyhi ghuig<span  className=' text-blue-500'>React</span></p>
-     <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5   text-black'>
+     <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white xl:-mr-16 text-left'>This is a Youtube Clone web application that uses the Rapid Api. It has a infinite Scrolling & lets you watch the videos by categories. we are using React Js & using  Context Api for state management stytem.</p>
+     <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5 text-black'>
      <li>HTML</li>
      <li>Tailwind CSS</li>
      <li>Javascript</li>
@@ -103,12 +103,12 @@ const Projects = () => {
     <div className=' w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end text-right xl:-ml-16 z-10'>
     <p className=' text-sm tracking-wide text-blue-600'>Featured Project</p>
     <h3 className=' text-2xl font-bold text-gray-800 hover:text-green-600'>Todo app</h3>
-    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-300 hover:bg-green-500 text-white'>An clone a k safsdhnufsdhsdfsdfhusd jfsusfu sfuisfahsaf cfsauihscfaiusac csiuhscasaiu gyg hi gg g i guyguygiooi guyfg g hiuyutguy yiyiu yhitiyh iuiuh iutgtgug iuyiyhi ghuig<span  className=' text-blue-500'>React</span></p>
+    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-300 hover:bg-green-500 text-white text-left'>I made a Todo Application using Typescript & Next Js. you can add a note then check the Active & complete state then you can delete the note. we are using the Context Api for state management system.</p>
     <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5   text-black ml-4'>
     <li>HTML</li>
     <li>Tailwind CSS</li>
     <li>Typescript</li>
-    <li>React js</li>
+    <li>Next js</li>
      <li>Context API</li>
     </ul>
     <div  className=' flex flex-row gap-4 '>
@@ -133,7 +133,7 @@ const Projects = () => {
     <div className=' w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end text-right  z-10'>
     <p className=' text-sm tracking-wide text-blue-600 left-0'>Featured Project</p>
     <h3 className=' text-2xl font-bold text-gray-800 hover:text-green-600'>Travigo</h3>
-    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white xl:-mr-16'>An clone a k safsdhnufsdhsdfsdfhusd jfsusfu sfuisfahsaf cfsauihscfaiusac csiuhscasaiu gyg hi gg g i guyguygiooi guyfg g hiuyutguy yiyiu yhitiyh iuiuh iutgtgug iuyiyhi ghuig<span  className=' text-blue-500'>React</span></p>
+    <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-500 hover:bg-green-500 text-white xl:-mr-16 text-left'>I made a Travigo Travel web Application using React Js & Tailwind Css. it's a simple Travel application User Interface using the help of React Js.</p>
     <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5   text-black'>
     <li>HTML</li>
     <li>Tailwind CSS</li>
@@ -171,7 +171,7 @@ const Projects = () => {
  <div className=' w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end text-right xl:-ml-16 z-10'>
  <p className=' text-sm tracking-wide text-blue-600'>Featured Project</p>
  <h3 className=' text-2xl font-bold text-gray-800 hover:text-green-600'>Exercise</h3>
- <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-300 hover:bg-green-500 text-white'>An clone a k safsdhnufsdhsdfsdfhusd jfsusfu sfuisfahsaf cfsauihscfaiusac csiuhscasaiu gyg hi gg g i guyguygiooi guyfg g hiuyutguy yiyiu yhitiyh iuiuh iutgtgug iuyiyhi ghuig<span  className=' text-blue-500'>React</span></p>
+ <p className=' bg-blue-500 text-sm md:text-base p-2 md:p-6 rounded-md hover:scale-105 duration-300 hover:bg-green-500 text-white text-left'>This is a VAWULENS exercise web Application with the help of React Js. It's a multipage web application that shows the gallery, plans & trainer pages in the application. it has a Program plans on this web application.</p>
  <ul className=' text-xs md:text-sm tracking-wide flex flex-wrap gap-2 md:gap-5   text-black ml-4'>
  <li>HTML</li>
  <li>CSS</li>

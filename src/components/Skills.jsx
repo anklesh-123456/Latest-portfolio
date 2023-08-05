@@ -48,7 +48,7 @@ const Skills = () => {
   ]
   return (
     <motion.section id='skills'
-    className='max-w-[1024px] mx-auto py-10 lgl:py-10 flex flex-col gap-8' 
+    className='max-w-[1024px] mx-auto  py-10 lgl:py-20 flex lg:px-4  flex-col gap-8' 
     initial="hidden"
       whileInView="visible"
       viewport={{once: true}}
