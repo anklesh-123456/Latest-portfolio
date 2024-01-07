@@ -29,10 +29,6 @@ const Skills = () => {
       logo:<TbBrandNextjs/>, lang: 'Next JS', count:70
     },
     {
-      logo:<SiTypescript/>, lang: 'Typescript', count:50
-    },
-   
-    {
       logo:<SiTailwindcss/>, lang: 'Tailwind CSS', count:88
     },
     {

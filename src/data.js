@@ -1,5 +1,3 @@
-
-
 export const menuLinks =[
     { name: "Home", link:"#home"},
     { name: "About", link:"#about"},
